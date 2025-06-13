@@ -18,8 +18,8 @@ A curated collection of wallpapers from my personal archive, featuring various s
 
 
 <details>
-<summary>📚 Detailed Info (dharmx_walls/.github/README.md)</summary>
-Longer content goes here...
+<summary>📚 Detailed Info </summary>
+(kilik hir)[dharmx_walls/.github/README.md]
 </details>
 
 
