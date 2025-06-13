@@ -19,7 +19,7 @@ A curated collection of wallpapers from my personal archive, featuring various s
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-       git clone https://github.com/uzama-kanjo/my_All_Wallpaper.git
+       git clone https://github.com/usama-kanjo/My_All_Wallpaper.git
    ```
        Browse the wallpapers in the /wallpapers folder
 
